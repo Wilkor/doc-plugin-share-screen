@@ -28,7 +28,16 @@ A instalação da **ViewDesk** é feita diretamente no **Router**. Siga as etapa
 2. Selecione o bot de atendimento onde deseja aplicar a extensão.
 3. Clique em **Atualizar** ou **Ativar Extensão** para concluir a configuração.
 
-![IMAGEM] - Insira aqui uma imagem que ilustre o processo de configuração.
+- Passo 1
+  
+![image](https://github.com/user-attachments/assets/693813e3-d834-4fb2-b9fa-ed01afc4a2a9)
+
+- Passo 2 e 3
+
+![image](https://github.com/user-attachments/assets/2ce96311-717e-48bf-b431-9fad238bdbca)
+
+
+
 
 ## 4. Exemplos de Uso
 
@@ -40,7 +49,7 @@ Adicione imagens ou gifs demonstrando a extensão em ação para facilitar a com
 
 ## 5. Suporte
 
-Se você tiver dúvidas ou encontrar algum problema com a extensão, entre em contato conosco pelo e-mail [E-MAIL DO SUPORTE] ou pelo telefone [TELEFONE DO SUPORTE].
+Se você tiver dúvidas ou encontrar algum problema com a extensão, entre em contato conosco pelo e-mail **contato@pontoparse.net** ou pelo telefone: **1199484-4060**.
 
 ## 6. Vídeo Demonstrativo
 
