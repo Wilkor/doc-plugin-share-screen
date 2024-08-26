@@ -8,6 +8,8 @@
 
 **ViewDesk** é uma extensão completa e eficiente que facilita o suporte ao cliente, permitindo que clientes compartilhem sua tela, vídeo e áudio com os atendentes. Quando enfrentam dificuldades, os clientes podem mostrar diretamente suas telas para os atendentes, que podem então oferecer orientação detalhada e assistência em tempo real. Com ViewDesk, o suporte se torna mais interativo e eficiente.
 
+**Observação**: A extensão tem um melhor desenpenho no Desktop.
+
 ## 2. Como Funciona?
 
 **ViewDesk** oferece as seguintes funcionalidades:
@@ -19,6 +21,9 @@
 A extensão é compatível com os seguintes canais:
 
 - Blip Desk
+- WhatsApp
+- BlipChat
+- Instagram 
 
 ## 3. Instalação e Configuração
 
