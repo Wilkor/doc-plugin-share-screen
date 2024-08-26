@@ -45,14 +45,14 @@ A instalação da **ViewDesk** é feita diretamente no **Router**. Siga as etapa
 
  ![image](https://github.com/user-attachments/assets/2f64bf50-cd57-4440-8b31-3b4adbb02f1f)
 
+ ![image](https://github.com/user-attachments/assets/a3e1ada8-cabf-4b50-bea3-049ef04d68ac)
+
 
 ## 4. Exemplos de Uso
 
 Aqui está um exemplo de como a **ViewDesk** facilita o suporte ao cliente:
 
 - Um cliente está enfrentando dificuldades técnicas e precisa de ajuda. Com a extensão, ele pode compartilhar sua tela, vídeo e áudio com o atendente, que pode então fornecer assistência e orientação em tempo real.
-
-Adicione imagens ou gifs demonstrando a extensão em ação para facilitar a compreensão.
 
 ## 5. Suporte
 
