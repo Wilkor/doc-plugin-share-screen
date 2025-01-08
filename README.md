@@ -8,7 +8,7 @@
 
 **ViewDesk** é uma extensão completa e eficiente que facilita o suporte ao cliente, permitindo que clientes compartilhem sua tela, vídeo e áudio com os atendentes. Quando enfrentam dificuldades, os clientes podem mostrar diretamente suas telas para os atendentes, que podem então oferecer orientação detalhada e assistência em tempo real. Com ViewDesk, o suporte se torna mais interativo e eficiente.
 
-**Observação**: A extensão tem um melhor desenpenho no Desktop.
+**Observação**: A extensão apresenta melhor desempenho no desktop. Para dispositivos móveis, apenas o áudio está disponível.
 
 ## 2. Como Funciona?
 
