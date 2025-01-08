@@ -36,15 +36,19 @@ A instalação da **ViewDesk** é feita diretamente no **Router**. Siga as etapa
 5. Clique em **Atualizar** ou **Ativar Extensão** para concluir a configuração.
 6. Clique em  **Clique Aqui** para instalar a Extensão no Google Chrome e Atualize o BlipDesk
 
+
 - Passo 1
+![image](https://github.com/user-attachments/assets/ad0c116d-68f7-456a-b23e-d704276434b6)
+
+- Passo 2
   
 ![image](https://github.com/user-attachments/assets/693813e3-d834-4fb2-b9fa-ed01afc4a2a9)
 
-- Passo 2 e 3
+- Passo 3 e 4
 
 ![image](https://github.com/user-attachments/assets/2ce96311-717e-48bf-b431-9fad238bdbca)
 
-- Passo 4
+- Passo 5
 
   ![image](https://github.com/user-attachments/assets/05423d45-a03c-4dc5-9f22-11859a81bfc3)
 
