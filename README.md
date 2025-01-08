@@ -30,10 +30,11 @@ A extensão é compatível com os seguintes canais:
 A instalação da **ViewDesk** é feita diretamente no **Router**. Siga as etapas abaixo para configurar a extensão:
 
 1. Acesse o Router, clique nos 3 pontinhos, selecione a opção  **ViewDesk**
-2. Após clicar em **Cria template** **view_desk_parse**.
-3. Selecione o bot de atendimento onde deseja aplicar a extensão.
-4. Clique em **Atualizar** ou **Ativar Extensão** para concluir a configuração.
-5. Clique em  **Clique Aqui** para instalar a Extensão no Google Chrome e Atualize o BlipDesk
+2. Após clicar na guia "Criar Template" clique no **Botão** ->  **Cria template**
+3. Após realizado o passo acima, um template com o nome **view_desk_parse** será criado.
+4. Na guia configuração, selecione o bot de atendimento onde deseja aplicar a extensão.
+5. Clique em **Atualizar** ou **Ativar Extensão** para concluir a configuração.
+6. Clique em  **Clique Aqui** para instalar a Extensão no Google Chrome e Atualize o BlipDesk
 
 - Passo 1
   
